@@ -6,4 +6,8 @@
 //  Copyright (c) 2015 Declan.Sidoti. All rights reserved.
 //
 
-import Foundation
+import UIKit
+class DiscoveryCells: UITableViewCell {
+
+    
+}

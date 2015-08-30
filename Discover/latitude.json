@@ -1,0 +1,875 @@
+{
+    "total_radiated_energy_j" : "105000000000",
+    "altitude_km" : "26.7",
+    "date_time_peak_brightness_ut" : "2015-04-30T10:21:01",
+    "calculated_total_impact_energy_kt" : "0.32",
+    "latitude_deg" : "48.7S",
+    "velocity_components_km_s_vx" : "12.2",
+    "velocity_components_km_s_vy" : "-4.2",
+    "longitude_deg" : "139.1E",
+    "velocity_components_km_s_vz" : "0.9"
+    }
+    , {
+    "total_radiated_energy_j" : "88000000000",
+    "altitude_km" : "37.4",
+    "date_time_peak_brightness_ut" : "2015-04-21T01:42:51",
+    "calculated_total_impact_energy_kt" : "0.27",
+    "latitude_deg" : "37.7N",
+    "velocity_components_km_s_vx" : "-15.3",
+    "velocity_components_km_s_vy" : "12.8",
+    "longitude_deg" : "39.6W",
+    "velocity_components_km_s_vz" : "7.4"
+    }
+    , {
+    "total_radiated_energy_j" : "173000000000",
+    "altitude_km" : "36.3",
+    "date_time_peak_brightness_ut" : "2015-04-08T04:06:31",
+    "calculated_total_impact_energy_kt" : "0.49",
+    "latitude_deg" : "25.5S",
+    "velocity_components_km_s_vx" : "8",
+    "velocity_components_km_s_vy" : "-15.6",
+    "longitude_deg" : "51.5E",
+    "velocity_components_km_s_vz" : "-7.9"
+    }
+    , {
+    "total_radiated_energy_j" : "42000000000",
+    "date_time_peak_brightness_ut" : "2015-04-03T01:39:38",
+    "calculated_total_impact_energy_kt" : "0.14",
+    "latitude_deg" : "8.4N",
+    "longitude_deg" : "157.9W"
+    }
+    , {
+    "total_radiated_energy_j" : "64000000000",
+    "altitude_km" : "33.1",
+    "date_time_peak_brightness_ut" : "2015-03-30T21:33:52",
+    "calculated_total_impact_energy_kt" : "0.2",
+    "latitude_deg" : "36.1S",
+    "velocity_components_km_s_vx" : "-13.7",
+    "velocity_components_km_s_vy" : "-1.7",
+    "longitude_deg" : "5.5W",
+    "velocity_components_km_s_vz" : "0.8"
+    }
+    , {
+    "total_radiated_energy_j" : "121000000000",
+    "altitude_km" : "50",
+    "date_time_peak_brightness_ut" : "2015-03-18T00:04:50",
+    "calculated_total_impact_energy_kt" : "0.36",
+    "latitude_deg" : "5.4S",
+    "longitude_deg" : "159.3E"
+    }
+    , {
+    "total_radiated_energy_j" : "72000000000",
+    "altitude_km" : "35.2",
+    "date_time_peak_brightness_ut" : "2015-03-11T06:18:59",
+    "calculated_total_impact_energy_kt" : "0.23",
+    "latitude_deg" : "8.0N",
+    "velocity_components_km_s_vx" : "5.5",
+    "velocity_components_km_s_vy" : "-10.5",
+    "longitude_deg" : "119.1E",
+    "velocity_components_km_s_vz" : "-16"
+    }
+    , {
+    "total_radiated_energy_j" : "20000000000",
+    "date_time_peak_brightness_ut" : "2015-03-08T04:26:28",
+    "calculated_total_impact_energy_kt" : "0.073",
+    "latitude_deg" : "39.1S",
+    "longitude_deg" : "118.6W"
+    }
+    , {
+    "total_radiated_energy_j" : "55000000000",
+    "altitude_km" : "39.8",
+    "date_time_peak_brightness_ut" : "2015-03-04T04:30:05",
+    "calculated_total_impact_energy_kt" : "0.18",
+    "latitude_deg" : "15.9S",
+    "velocity_components_km_s_vx" : "7.8",
+    "velocity_components_km_s_vy" : "-16",
+    "longitude_deg" : "88.1E",
+    "velocity_components_km_s_vz" : "-2.5"
+    }
+    , {
+    "total_radiated_energy_j" : "188000000000",
+    "altitude_km" : "33.7",
+    "date_time_peak_brightness_ut" : "2015-02-26T22:06:24",
+    "calculated_total_impact_energy_kt" : "0.53",
+    "latitude_deg" : "68.0N",
+    "velocity_components_km_s_vx" : "5.6",
+    "velocity_components_km_s_vy" : "-2.3",
+    "longitude_deg" : "149.0W",
+    "velocity_components_km_s_vz" : "-20.2"
+    }
+    , {
+    "total_radiated_energy_j" : "58000000000",
+    "altitude_km" : "42",
+    "date_time_peak_brightness_ut" : "2015-02-25T10:53:24",
+    "calculated_total_impact_energy_kt" : "0.19",
+    "latitude_deg" : "12.4N",
+    "longitude_deg" : "122.4W"
+    }
+    , {
+    "total_radiated_energy_j" : "33000000000",
+    "altitude_km" : "39",
+    "date_time_peak_brightness_ut" : "2015-02-17T13:19:50",
+    "calculated_total_impact_energy_kt" : "0.11",
+    "latitude_deg" : "8.0S",
+    "velocity_components_km_s_vx" : "-28.2",
+    "velocity_components_km_s_vy" : "3.4",
+    "longitude_deg" : "11.2W",
+    "velocity_components_km_s_vz" : "4.6"
+    }
+    , {
+    "total_radiated_energy_j" : "22000000000",
+    "date_time_peak_brightness_ut" : "2015-01-09T17:31:47",
+    "calculated_total_impact_energy_kt" : "0.079",
+    "latitude_deg" : "23.3S",
+    "longitude_deg" : "49.2W"
+    }
+    , {
+    "total_radiated_energy_j" : "139000000000",
+    "altitude_km" : "36",
+    "date_time_peak_brightness_ut" : "2015-01-09T10:41:11",
+    "calculated_total_impact_energy_kt" : "0.41",
+    "latitude_deg" : "2.0N",
+    "velocity_components_km_s_vx" : "-10.7",
+    "velocity_components_km_s_vy" : "-7.6",
+    "longitude_deg" : "28.8E",
+    "velocity_components_km_s_vz" : "11.6"
+    }
+    , {
+    "total_radiated_energy_j" : "136000000000",
+    "altitude_km" : "45.5",
+    "date_time_peak_brightness_ut" : "2015-01-07T01:05:59",
+    "calculated_total_impact_energy_kt" : "0.4",
+    "latitude_deg" : "45.7N",
+    "velocity_components_km_s_vx" : "-35.4",
+    "velocity_components_km_s_vy" : "1.8",
+    "longitude_deg" : "26.9E",
+    "velocity_components_km_s_vz" : "-4.4"
+    }
+    , {
+    "total_radiated_energy_j" : "20000000000",
+    "altitude_km" : "38.1",
+    "date_time_peak_brightness_ut" : "2015-01-02T13:39:19",
+    "calculated_total_impact_energy_kt" : "0.073",
+    "latitude_deg" : "31.1S",
+    "velocity_components_km_s_vx" : "4.5",
+    "velocity_components_km_s_vy" : "-14.4",
+    "longitude_deg" : "140.0E",
+    "velocity_components_km_s_vz" : "-10"
+    }
+    , {
+    "total_radiated_energy_j" : "44000000000",
+    "altitude_km" : "30.7",
+    "date_time_peak_brightness_ut" : "2014-12-13T02:53:52",
+    "calculated_total_impact_energy_kt" : "0.15",
+    "latitude_deg" : "86.7N",
+    "velocity_components_km_s_vx" : "15.3",
+    "velocity_components_km_s_vy" : "-13.3",
+    "longitude_deg" : "162.1W",
+    "velocity_components_km_s_vz" : "-7.8"
+    }
+    , {
+    "total_radiated_energy_j" : "33000000000",
+    "altitude_km" : "26.3",
+    "date_time_peak_brightness_ut" : "2014-12-12T06:48:11",
+    "calculated_total_impact_energy_kt" : "0.11",
+    "latitude_deg" : "33.5N",
+    "velocity_components_km_s_vx" : "11.5",
+    "velocity_components_km_s_vy" : "-2.8",
+    "longitude_deg" : "144.9E",
+    "velocity_components_km_s_vz" : "-2.2"
+    }
+    , {
+    "total_radiated_energy_j" : "78000000000",
+    "altitude_km" : "26.3",
+    "date_time_peak_brightness_ut" : "2014-12-09T21:19:18",
+    "calculated_total_impact_energy_kt" : "0.24",
+    "latitude_deg" : "76.6N",
+    "longitude_deg" : "96.3E"
+    }
+    , {
+    "total_radiated_energy_j" : "700000000000",
+    "altitude_km" : "26.1",
+    "date_time_peak_brightness_ut" : "2014-11-28T11:47:18",
+    "calculated_total_impact_energy_kt" : "1.7",
+    "latitude_deg" : "45.8S",
+    "velocity_components_km_s_vx" : "0.4",
+    "velocity_components_km_s_vy" : "-1.4",
+    "longitude_deg" : "172.7W",
+    "velocity_components_km_s_vz" : "13.3"
+    }
+    , {
+    "total_radiated_energy_j" : "55000000000",
+    "altitude_km" : "38",
+    "date_time_peak_brightness_ut" : "2014-11-27T12:12:52",
+    "calculated_total_impact_energy_kt" : "0.18",
+    "latitude_deg" : "18.8S",
+    "longitude_deg" : "73.4W"
+    }
+    , {
+    "total_radiated_energy_j" : "118000000000",
+    "altitude_km" : "23.3",
+    "date_time_peak_brightness_ut" : "2014-11-26T23:16:51",
+    "calculated_total_impact_energy_kt" : "0.35",
+    "latitude_deg" : "69.5S",
+    "velocity_components_km_s_vx" : "21.3",
+    "velocity_components_km_s_vy" : "2.2",
+    "longitude_deg" : "179.7W",
+    "velocity_components_km_s_vz" : "13.4"
+    }
+    , {
+    "total_radiated_energy_j" : "105000000000",
+    "altitude_km" : "37",
+    "date_time_peak_brightness_ut" : "2014-11-26T17:40:16",
+    "calculated_total_impact_energy_kt" : "0.32",
+    "latitude_deg" : "68.2S",
+    "velocity_components_km_s_vx" : "-7",
+    "velocity_components_km_s_vy" : "16.1",
+    "longitude_deg" : "24.0W",
+    "velocity_components_km_s_vz" : "9.4"
+    }
+    , {
+    "total_radiated_energy_j" : "156000000000",
+    "altitude_km" : "22.2",
+    "date_time_peak_brightness_ut" : "2014-11-04T20:13:30",
+    "calculated_total_impact_energy_kt" : "0.45",
+    "latitude_deg" : "43.1N",
+    "velocity_components_km_s_vx" : "-7.2",
+    "velocity_components_km_s_vy" : "-12.1",
+    "longitude_deg" : "115.8E",
+    "velocity_components_km_s_vz" : "-7.7"
+    }
+    , {
+    "total_radiated_energy_j" : "34000000000",
+    "date_time_peak_brightness_ut" : "2014-10-21T18:55:37",
+    "calculated_total_impact_energy_kt" : "0.12",
+    "latitude_deg" : "22.2N",
+    "longitude_deg" : "132.9W"
+    }
+    , {
+    "total_radiated_energy_j" : "72000000000",
+    "altitude_km" : "39",
+    "date_time_peak_brightness_ut" : "2014-10-17T14:07:36",
+    "calculated_total_impact_energy_kt" : "0.23",
+    "latitude_deg" : "4.6S",
+    "longitude_deg" : "66.3W"
+    }
+    , {
+    "total_radiated_energy_j" : "29000000000",
+    "altitude_km" : "27.2",
+    "date_time_peak_brightness_ut" : "2014-10-14T10:25:03",
+    "calculated_total_impact_energy_kt" : "0.1",
+    "latitude_deg" : "2.0S",
+    "velocity_components_km_s_vx" : "15",
+    "velocity_components_km_s_vy" : "-6.9",
+    "longitude_deg" : "119.2E",
+    "velocity_components_km_s_vz" : "-3.5"
+    }
+    , {
+    "total_radiated_energy_j" : "39000000000",
+    "date_time_peak_brightness_ut" : "2014-10-06T20:02:15",
+    "calculated_total_impact_energy_kt" : "0.13",
+    "latitude_deg" : "43.7S",
+    "longitude_deg" : "85.7E"
+    }
+    , {
+    "total_radiated_energy_j" : "28000000000",
+    "altitude_km" : "32.5",
+    "date_time_peak_brightness_ut" : "2014-09-09T18:55:46",
+    "calculated_total_impact_energy_kt" : "0.098",
+    "latitude_deg" : "3.2N",
+    "longitude_deg" : "137.2E"
+    }
+    , {
+    "total_radiated_energy_j" : "35000000000",
+    "date_time_peak_brightness_ut" : "2014-09-05T21:37:26",
+    "calculated_total_impact_energy_kt" : "0.12",
+    "latitude_deg" : "22.7N",
+    "longitude_deg" : "150.0W"
+    }
+    , {
+    "total_radiated_energy_j" : "26000000000",
+    "date_time_peak_brightness_ut" : "2014-08-29T23:15:39",
+    "calculated_total_impact_energy_kt" : "0.092",
+    "latitude_deg" : "6.2S",
+    "longitude_deg" : "49.9W"
+    }
+    , {
+    "total_radiated_energy_j" : "34000000000",
+    "date_time_peak_brightness_ut" : "2014-08-28T03:07:45",
+    "calculated_total_impact_energy_kt" : "0.12",
+    "latitude_deg" : "3.2N",
+    "longitude_deg" : "45.4W"
+    }
+    , {
+    "total_radiated_energy_j" : "3820000000000",
+    "altitude_km" : "22.2",
+    "date_time_peak_brightness_ut" : "2014-08-23T06:29:41",
+    "calculated_total_impact_energy_kt" : "7.6",
+    "latitude_deg" : "61.7S",
+    "velocity_components_km_s_vx" : "-2.3",
+    "velocity_components_km_s_vy" : "5.7",
+    "longitude_deg" : "132.6E",
+    "velocity_components_km_s_vz" : "16.5",
+    "velocity_km_s" : "16.2"
+    }
+    , {
+    "total_radiated_energy_j" : "73000000000",
+    "date_time_peak_brightness_ut" : "2014-07-29T07:38:07",
+    "calculated_total_impact_energy_kt" : "0.23",
+    "latitude_deg" : "49.2S",
+    "longitude_deg" : "172.2W"
+    }
+    , {
+    "total_radiated_energy_j" : "53000000000",
+    "date_time_peak_brightness_ut" : "2014-07-29T03:07:43",
+    "calculated_total_impact_energy_kt" : "0.17",
+    "latitude_deg" : "33.9S",
+    "longitude_deg" : "115.9W"
+    }
+    , {
+    "total_radiated_energy_j" : "245000000000",
+    "altitude_km" : "26.3",
+    "date_time_peak_brightness_ut" : "2014-06-28T02:40:07",
+    "calculated_total_impact_energy_kt" : "0.67",
+    "latitude_deg" : "18.9N",
+    "velocity_components_km_s_vx" : "12",
+    "velocity_components_km_s_vy" : "3.5",
+    "longitude_deg" : "141.2E",
+    "velocity_components_km_s_vz" : "-10.5",
+    "velocity_km_s" : "12.4"
+    }
+    , {
+    "total_radiated_energy_j" : "61000000000",
+    "altitude_km" : "28.5",
+    "date_time_peak_brightness_ut" : "2014-06-26T05:54:41",
+    "calculated_total_impact_energy_kt" : "0.2",
+    "latitude_deg" : "71.5S",
+    "velocity_components_km_s_vx" : "7",
+    "velocity_components_km_s_vy" : "2.9",
+    "longitude_deg" : "93.4E",
+    "velocity_components_km_s_vz" : "8.3"
+    }
+    , {
+    "total_radiated_energy_j" : "58000000000",
+    "altitude_km" : "28.7",
+    "date_time_peak_brightness_ut" : "2014-05-29T01:12:36",
+    "calculated_total_impact_energy_kt" : "0.19",
+    "latitude_deg" : "21.9N",
+    "longitude_deg" : "131.1W"
+    }
+    , {
+    "total_radiated_energy_j" : "136000000000",
+    "altitude_km" : "30.8",
+    "date_time_peak_brightness_ut" : "2014-05-16T20:06:28",
+    "calculated_total_impact_energy_kt" : "0.4",
+    "latitude_deg" : "39.4S",
+    "velocity_components_km_s_vx" : "2.9",
+    "velocity_components_km_s_vy" : "13.4",
+    "longitude_deg" : "95.9W",
+    "velocity_components_km_s_vz" : "-12.5",
+    "velocity_km_s" : "18"
+    }
+    , {
+    "total_radiated_energy_j" : "309000000000",
+    "altitude_km" : "44",
+    "date_time_peak_brightness_ut" : "2014-05-16T12:42:48",
+    "calculated_total_impact_energy_kt" : "0.82",
+    "latitude_deg" : "44.2S",
+    "velocity_components_km_s_vx" : "14.4",
+    "velocity_components_km_s_vy" : "4.6",
+    "longitude_deg" : "176.2W",
+    "velocity_components_km_s_vz" : "6.5"
+    }
+    , {
+    "total_radiated_energy_j" : "1050000000000",
+    "altitude_km" : "35.4",
+    "date_time_peak_brightness_ut" : "2014-05-08T19:42:37",
+    "calculated_total_impact_energy_kt" : "2.4",
+    "latitude_deg" : "36.9S",
+    "velocity_components_km_s_vx" : "-2",
+    "velocity_components_km_s_vy" : "-16.1",
+    "longitude_deg" : "87.3E",
+    "velocity_components_km_s_vz" : "9.9"
+    }
+    , {
+    "total_radiated_energy_j" : "39000000000",
+    "altitude_km" : "30.7",
+    "date_time_peak_brightness_ut" : "2014-03-29T13:45:41",
+    "calculated_total_impact_energy_kt" : "0.13",
+    "latitude_deg" : "28.7S",
+    "velocity_components_km_s_vx" : "10",
+    "velocity_components_km_s_vy" : "-12.7",
+    "longitude_deg" : "121.5E",
+    "velocity_components_km_s_vz" : "2.2"
+    }
+    , {
+    "total_radiated_energy_j" : "540000000000",
+    "altitude_km" : "30.5",
+    "date_time_peak_brightness_ut" : "2014-03-18T11:02:37",
+    "calculated_total_impact_energy_kt" : "1.3",
+    "latitude_deg" : "0.0N",
+    "longitude_deg" : "111.8W"
+    }
+    , {
+    "total_radiated_energy_j" : "94000000000",
+    "date_time_peak_brightness_ut" : "2014-03-03T15:00:21",
+    "calculated_total_impact_energy_kt" : "0.29",
+    "latitude_deg" : "29.0S",
+    "longitude_deg" : "94.9W"
+    }
+    , {
+    "total_radiated_energy_j" : "26000000000",
+    "date_time_peak_brightness_ut" : "2014-02-18T12:50:44",
+    "calculated_total_impact_energy_kt" : "0.092",
+    "latitude_deg" : "32.8S",
+    "longitude_deg" : "61.5W"
+    }
+    , {
+    "total_radiated_energy_j" : "630000000000",
+    "altitude_km" : "25",
+    "date_time_peak_brightness_ut" : "2014-02-13T06:47:42",
+    "calculated_total_impact_energy_kt" : "1.5",
+    "latitude_deg" : "13.3N",
+    "longitude_deg" : "110.7W"
+    }
+    , {
+    "total_radiated_energy_j" : "140000000000",
+    "altitude_km" : "29.6",
+    "date_time_peak_brightness_ut" : "2014-01-15T02:46:19",
+    "calculated_total_impact_energy_kt" : "0.41",
+    "latitude_deg" : "18.5S",
+    "longitude_deg" : "141.8E"
+    }
+    , {
+    "total_radiated_energy_j" : "78000000000",
+    "altitude_km" : "37",
+    "date_time_peak_brightness_ut" : "2014-01-12T16:00:48",
+    "calculated_total_impact_energy_kt" : "0.24",
+    "latitude_deg" : "2.9N",
+    "velocity_components_km_s_vx" : "-5.2",
+    "velocity_components_km_s_vy" : "-15.1",
+    "longitude_deg" : "64.4E",
+    "velocity_components_km_s_vz" : "2.6"
+    }
+    , {
+    "total_radiated_energy_j" : "31000000000",
+    "altitude_km" : "18.7",
+    "date_time_peak_brightness_ut" : "2014-01-08T17:05:34",
+    "calculated_total_impact_energy_kt" : "0.11",
+    "latitude_deg" : "1.3S",
+    "velocity_components_km_s_vx" : "-3.4",
+    "velocity_components_km_s_vy" : "-43.5",
+    "longitude_deg" : "147.6E",
+    "velocity_components_km_s_vz" : "-10.3"
+    }
+    , {
+    "total_radiated_energy_j" : "147000000000",
+    "altitude_km" : "34.3",
+    "date_time_peak_brightness_ut" : "2013-12-23T08:30:57",
+    "calculated_total_impact_energy_kt" : "0.43",
+    "latitude_deg" : "39.5N",
+    "velocity_components_km_s_vx" : "-1.1",
+    "velocity_components_km_s_vy" : "11.4",
+    "longitude_deg" : "2.0E",
+    "velocity_components_km_s_vz" : "-9.9"
+    }
+    , {
+    "total_radiated_energy_j" : "64000000000",
+    "altitude_km" : "23.5",
+    "date_time_peak_brightness_ut" : "2013-12-08T03:10:09",
+    "calculated_total_impact_energy_kt" : "0.2",
+    "latitude_deg" : "32.8N",
+    "velocity_components_km_s_vx" : "2.3",
+    "velocity_components_km_s_vy" : "2.5",
+    "longitude_deg" : "165.1W",
+    "velocity_components_km_s_vz" : "-11.3"
+    }
+    , {
+    "total_radiated_energy_j" : "75000000000",
+    "altitude_km" : "59.3",
+    "date_time_peak_brightness_ut" : "2013-11-21T01:50:35",
+    "calculated_total_impact_energy_kt" : "0.23",
+    "latitude_deg" : "44.7N",
+    "velocity_components_km_s_vx" : "-5",
+    "velocity_components_km_s_vy" : "-11",
+    "longitude_deg" : "35.3E",
+    "velocity_components_km_s_vz" : "-2.7"
+    }
+    , {
+    "total_radiated_energy_j" : "1610000000000",
+    "altitude_km" : "22.2",
+    "date_time_peak_brightness_ut" : "2013-10-12T16:06:45",
+    "calculated_total_impact_energy_kt" : "3.5",
+    "latitude_deg" : "19.1S",
+    "velocity_components_km_s_vx" : "-8",
+    "velocity_components_km_s_vy" : "8.4",
+    "longitude_deg" : "25.0W",
+    "velocity_components_km_s_vz" : "-5.5"
+    }
+    , {
+    "total_radiated_energy_j" : "160000000000",
+    "altitude_km" : "40.7",
+    "date_time_peak_brightness_ut" : "2013-09-24T15:31:16",
+    "calculated_total_impact_energy_kt" : "0.46",
+    "latitude_deg" : "10.3S",
+    "longitude_deg" : "164.7W"
+    }
+    , {
+    "total_radiated_energy_j" : "44000000000",
+    "altitude_km" : "66.6",
+    "date_time_peak_brightness_ut" : "2013-08-12T18:08:02",
+    "calculated_total_impact_energy_kt" : "0.15",
+    "latitude_deg" : "34.4S",
+    "longitude_deg" : "118.2E"
+    }
+    , {
+    "total_radiated_energy_j" : "69000000000",
+    "altitude_km" : "29.1",
+    "date_time_peak_brightness_ut" : "2013-07-31T03:50:14",
+    "calculated_total_impact_energy_kt" : "0.22",
+    "latitude_deg" : "31.8S",
+    "velocity_components_km_s_vx" : "17.7",
+    "velocity_components_km_s_vy" : "-2.3",
+    "longitude_deg" : "137.1E",
+    "velocity_components_km_s_vz" : "-0.1"
+    }
+    , {
+    "total_radiated_energy_j" : "390000000000",
+    "altitude_km" : "25.6",
+    "date_time_peak_brightness_ut" : "2013-07-30T02:36:58",
+    "calculated_total_impact_energy_kt" : "1",
+    "latitude_deg" : "50.2S",
+    "velocity_components_km_s_vx" : "15.9",
+    "velocity_components_km_s_vy" : "-8.6",
+    "longitude_deg" : "90.2E",
+    "velocity_components_km_s_vz" : "5.1"
+    }
+    , {
+    "total_radiated_energy_j" : "120000000000",
+    "altitude_km" : "26.5",
+    "date_time_peak_brightness_ut" : "2013-07-27T08:30:36",
+    "calculated_total_impact_energy_kt" : "0.36",
+    "latitude_deg" : "0.3N",
+    "velocity_components_km_s_vx" : "16",
+    "velocity_components_km_s_vy" : "14.9",
+    "longitude_deg" : "156.2E",
+    "velocity_components_km_s_vz" : "-3.3"
+    }
+    , {
+    "total_radiated_energy_j" : "20000000000",
+    "altitude_km" : "37",
+    "date_time_peak_brightness_ut" : "2013-07-26T11:32:26",
+    "calculated_total_impact_energy_kt" : "0.073",
+    "latitude_deg" : "21.0N",
+    "longitude_deg" : "178.5W"
+    }
+    , {
+    "total_radiated_energy_j" : "34000000000",
+    "altitude_km" : "28.9",
+    "date_time_peak_brightness_ut" : "2013-06-01T22:49:48",
+    "calculated_total_impact_energy_kt" : "0.12",
+    "latitude_deg" : "65.6S",
+    "longitude_deg" : "138.4E"
+    }
+    , {
+    "total_radiated_energy_j" : "20000000000",
+    "date_time_peak_brightness_ut" : "2013-05-14T23:20:21",
+    "calculated_total_impact_energy_kt" : "0.073",
+    "latitude_deg" : "3.0S",
+    "longitude_deg" : "76.4E"
+    }
+    , {
+    "total_radiated_energy_j" : "5110000000000",
+    "altitude_km" : "21.2",
+    "date_time_peak_brightness_ut" : "2013-04-30T08:40:38",
+    "calculated_total_impact_energy_kt" : "10",
+    "latitude_deg" : "35.5N",
+    "velocity_components_km_s_vx" : "1",
+    "velocity_components_km_s_vy" : "9",
+    "longitude_deg" : "30.7W",
+    "velocity_components_km_s_vz" : "-8"
+    }
+    , {
+    "total_radiated_energy_j" : "1070000000000",
+    "altitude_km" : "40.7",
+    "date_time_peak_brightness_ut" : "2013-04-21T06:23:12",
+    "calculated_total_impact_energy_kt" : "2.5",
+    "latitude_deg" : "28.1S",
+    "velocity_components_km_s_vx" : "5",
+    "velocity_components_km_s_vy" : "14",
+    "longitude_deg" : "64.6W",
+    "velocity_components_km_s_vz" : "1"
+    }
+    , {
+    "total_radiated_energy_j" : "29000000000",
+    "altitude_km" : "26",
+    "date_time_peak_brightness_ut" : "2013-03-12T10:32:59",
+    "calculated_total_impact_energy_kt" : "0.1",
+    "latitude_deg" : "32.7S",
+    "longitude_deg" : "17.1E"
+    }
+    , {
+    "total_radiated_energy_j" : "32000000000",
+    "date_time_peak_brightness_ut" : "2013-02-20T13:13:07",
+    "calculated_total_impact_energy_kt" : "0.1",
+    "latitude_deg" : "23.0S",
+    "velocity_components_km_s_vx" : "-11",
+    "velocity_components_km_s_vy" : "-8",
+    "longitude_deg" : "38.8W",
+    "velocity_components_km_s_vz" : "-1"
+    }
+    , {
+    "total_radiated_energy_j" : "375000000000000",
+    "altitude_km" : "23.3",
+    "date_time_peak_brightness_ut" : "2013-02-15T03:20:33",
+    "calculated_total_impact_energy_kt" : "440",
+    "latitude_deg" : "54.8N",
+    "velocity_components_km_s_vx" : "12.8",
+    "velocity_components_km_s_vy" : "-13.3",
+    "longitude_deg" : "61.1E",
+    "velocity_components_km_s_vz" : "-2.4",
+    "velocity_km_s" : "18.6"
+    }
+    , {
+    "total_radiated_energy_j" : "65000000000",
+    "date_time_peak_brightness_ut" : "2013-02-07T13:12:24",
+    "calculated_total_impact_energy_kt" : "0.21",
+    "latitude_deg" : "18.8S",
+    "longitude_deg" : "158.6W"
+    }
+    , {
+    "total_radiated_energy_j" : "3400000000000",
+    "date_time_peak_brightness_ut" : "2013-01-25T07:40:18",
+    "calculated_total_impact_energy_kt" : "6.9",
+    "latitude_deg" : "60.3N",
+    "longitude_deg" : "64.6W"
+    }
+    , {
+    "total_radiated_energy_j" : "48000000000",
+    "altitude_km" : "36.1",
+    "date_time_peak_brightness_ut" : "2013-01-12T03:04:21",
+    "calculated_total_impact_energy_kt" : "0.16",
+    "latitude_deg" : "15.1S",
+    "longitude_deg" : "155.6W"
+    }
+    , {
+    "total_radiated_energy_j" : "198000000000",
+    "date_time_peak_brightness_ut" : "2012-12-30T07:25:35",
+    "calculated_total_impact_energy_kt" : "0.55",
+    "latitude_deg" : "17.3N",
+    "longitude_deg" : "83.6W"
+    }
+    , {
+    "total_radiated_energy_j" : "25000000000",
+    "altitude_km" : "33.3",
+    "date_time_peak_brightness_ut" : "2012-11-20T20:37:31",
+    "calculated_total_impact_energy_kt" : "0.089",
+    "latitude_deg" : "2.5N",
+    "velocity_components_km_s_vx" : "-12.2",
+    "velocity_components_km_s_vy" : "-5.3",
+    "longitude_deg" : "29.6E",
+    "velocity_components_km_s_vz" : "5.3"
+    }
+    , {
+    "total_radiated_energy_j" : "120000000000",
+    "date_time_peak_brightness_ut" : "2012-11-20T06:25:11",
+    "calculated_total_impact_energy_kt" : "0.36",
+    "latitude_deg" : "8.0S",
+    "longitude_deg" : "86.0W"
+    }
+    , {
+    "total_radiated_energy_j" : "23000000000",
+    "altitude_km" : "29.3",
+    "date_time_peak_brightness_ut" : "2012-10-19T16:26:22",
+    "calculated_total_impact_energy_kt" : "0.082",
+    "latitude_deg" : "75.4S",
+    "velocity_components_km_s_vx" : "-2.3",
+    "velocity_components_km_s_vy" : "-3.9",
+    "longitude_deg" : "49.6E",
+    "velocity_components_km_s_vz" : "12.4"
+    }
+    , {
+    "total_radiated_energy_j" : "210000000000",
+    "altitude_km" : "27.8",
+    "date_time_peak_brightness_ut" : "2012-10-09T00:54:55",
+    "calculated_total_impact_energy_kt" : "0.58",
+    "latitude_deg" : "51.2N",
+    "velocity_components_km_s_vx" : "3.4",
+    "velocity_components_km_s_vy" : "12",
+    "longitude_deg" : "84.6W",
+    "velocity_components_km_s_vz" : "5.1"
+    }
+    , {
+    "total_radiated_energy_j" : "280000000000",
+    "date_time_peak_brightness_ut" : "2012-10-03T22:50:12",
+    "calculated_total_impact_energy_kt" : "0.75",
+    "latitude_deg" : "41.5S",
+    "velocity_components_km_s_vx" : "-2.4",
+    "velocity_components_km_s_vy" : "5.5",
+    "longitude_deg" : "21.9W",
+    "velocity_components_km_s_vz" : "15.9"
+    }
+    , {
+    "total_radiated_energy_j" : "470000000000",
+    "altitude_km" : "35",
+    "date_time_peak_brightness_ut" : "2012-10-02T16:38:38",
+    "calculated_total_impact_energy_kt" : "1.2",
+    "latitude_deg" : "8.1S",
+    "velocity_components_km_s_vx" : "1.4",
+    "velocity_components_km_s_vy" : "15.3",
+    "longitude_deg" : "111.9W",
+    "velocity_components_km_s_vz" : "1"
+    }
+    , {
+    "total_radiated_energy_j" : "38000000000",
+    "date_time_peak_brightness_ut" : "2012-09-28T05:44:12",
+    "calculated_total_impact_energy_kt" : "0.13",
+    "latitude_deg" : "6.9S",
+    "longitude_deg" : "73.7E"
+    }
+    , {
+    "total_radiated_energy_j" : "244000000000",
+    "altitude_km" : "28.1",
+    "date_time_peak_brightness_ut" : "2012-09-18T19:34:39",
+    "calculated_total_impact_energy_kt" : "0.67",
+    "latitude_deg" : "1.2N",
+    "velocity_components_km_s_vx" : "-1.9",
+    "velocity_components_km_s_vy" : "14.1",
+    "longitude_deg" : "52.2W",
+    "velocity_components_km_s_vz" : "-11.5"
+    }
+    , {
+    "total_radiated_energy_j" : "52000000000",
+    "date_time_peak_brightness_ut" : "2012-09-11T22:07:30",
+    "calculated_total_impact_energy_kt" : "0.17",
+    "latitude_deg" : "18.9S",
+    "longitude_deg" : "105.2E"
+    }
+    , {
+    "total_radiated_energy_j" : "23000000000",
+    "altitude_km" : "23.8",
+    "date_time_peak_brightness_ut" : "2012-09-10T01:03:32",
+    "calculated_total_impact_energy_kt" : "0.082",
+    "latitude_deg" : "69.8S",
+    "velocity_components_km_s_vx" : "-10.2",
+    "velocity_components_km_s_vy" : "-5.2",
+    "longitude_deg" : "111.7W",
+    "velocity_components_km_s_vz" : "12.4"
+    }
+    , {
+    "total_radiated_energy_j" : "68000000000",
+    "altitude_km" : "38.7",
+    "date_time_peak_brightness_ut" : "2012-08-27T06:57:43",
+    "calculated_total_impact_energy_kt" : "0.22",
+    "latitude_deg" : "18.3S",
+    "velocity_components_km_s_vx" : "-8",
+    "velocity_components_km_s_vy" : "-23.7",
+    "longitude_deg" : "64.2E",
+    "velocity_components_km_s_vz" : "-14.5"
+    }
+    , {
+    "total_radiated_energy_j" : "249000000000",
+    "altitude_km" : "36",
+    "date_time_peak_brightness_ut" : "2012-08-26T14:55:47",
+    "calculated_total_impact_energy_kt" : "0.68",
+    "latitude_deg" : "11.8N",
+    "velocity_components_km_s_vx" : "5",
+    "velocity_components_km_s_vy" : "-11.6",
+    "longitude_deg" : "117.0E",
+    "velocity_components_km_s_vz" : "-0.7"
+    }
+    , {
+    "total_radiated_energy_j" : "34000000000",
+    "altitude_km" : "27.2",
+    "date_time_peak_brightness_ut" : "2012-07-27T04:19:50",
+    "calculated_total_impact_energy_kt" : "0.12",
+    "latitude_deg" : "63.1N",
+    "longitude_deg" : "172.3E"
+    }
+    , {
+    "total_radiated_energy_j" : "133000000000",
+    "altitude_km" : "26.8",
+    "date_time_peak_brightness_ut" : "2012-07-25T07:48:20",
+    "calculated_total_impact_energy_kt" : "0.39",
+    "latitude_deg" : "36.4N",
+    "velocity_components_km_s_vx" : "0.8",
+    "velocity_components_km_s_vy" : "2",
+    "longitude_deg" : "41.5E",
+    "velocity_components_km_s_vz" : "-18.4"
+    }
+    , {
+    "total_radiated_energy_j" : "60000000000",
+    "date_time_peak_brightness_ut" : "2012-05-25T11:31:24",
+    "calculated_total_impact_energy_kt" : "0.19",
+    "latitude_deg" : "41.8S",
+    "longitude_deg" : "36.2W"
+    }
+    , {
+    "total_radiated_energy_j" : "132000000000",
+    "altitude_km" : "33.3",
+    "date_time_peak_brightness_ut" : "2012-05-15T11:04:17",
+    "calculated_total_impact_energy_kt" : "0.39",
+    "latitude_deg" : "61.8S",
+    "velocity_components_km_s_vx" : "-0.8",
+    "velocity_components_km_s_vy" : "1.1",
+    "longitude_deg" : "135.5W",
+    "velocity_components_km_s_vz" : "17"
+    }
+    , {
+    "total_radiated_energy_j" : "229000000000",
+    "date_time_peak_brightness_ut" : "2012-05-04T21:54:49",
+    "calculated_total_impact_energy_kt" : "0.63",
+    "latitude_deg" : "76.7N",
+    "longitude_deg" : "10.6W"
+    }
+    , {
+    "total_radiated_energy_j" : "44000000000",
+    "altitude_km" : "25.2",
+    "date_time_peak_brightness_ut" : "2012-04-23T22:01:10",
+    "calculated_total_impact_energy_kt" : "0.15",
+    "latitude_deg" : "36.2N",
+    "longitude_deg" : "107.4E"
+    }
+    , {
+    "total_radiated_energy_j" : "143000000000",
+    "date_time_peak_brightness_ut" : "2012-04-21T16:08:23",
+    "calculated_total_impact_energy_kt" : "0.42",
+    "latitude_deg" : "15.8S",
+    "longitude_deg" : "174.8W"
+    }
+    , {
+    "total_radiated_energy_j" : "20000000000000",
+    "altitude_km" : "26",
+    "date_time_peak_brightness_ut" : "2010-12-25T23:24:00",
+    "calculated_total_impact_energy_kt" : "33",
+    "latitude_deg" : "38.0N",
+    "velocity_components_km_s_vx" : "18",
+    "velocity_components_km_s_vy" : "-2",
+    "longitude_deg" : "158.0E",
+    "velocity_components_km_s_vz" : "-4",
+    "velocity_km_s" : "18.1"
+    }
+    , {
+    "total_radiated_energy_j" : "10000000000000",
+    "altitude_km" : "38",
+    "date_time_peak_brightness_ut" : "2009-11-21T20:53:00",
+    "calculated_total_impact_energy_kt" : "18",
+    "latitude_deg" : "22.0S",
+    "velocity_components_km_s_vx" : "3",
+    "velocity_components_km_s_vy" : "-17",
+    "longitude_deg" : "29.2E",
+    "velocity_components_km_s_vz" : "-27",
+    "velocity_km_s" : "32.1"
+    }
+    , {
+    "total_radiated_energy_j" : "20000000000000",
+    "altitude_km" : "19.1",
+    "date_time_peak_brightness_ut" : "2009-10-08T02:57:00",
+    "calculated_total_impact_energy_kt" : "33",
+    "latitude_deg" : "4.2S",
+    "velocity_components_km_s_vx" : "14",
+    "velocity_components_km_s_vy" : "-16",
+    "longitude_deg" : "120.6E",
+    "velocity_components_km_s_vz" : "-6",
+    "velocity_km_s" : "19.2"
+    }
